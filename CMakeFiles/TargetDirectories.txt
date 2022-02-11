@@ -1,0 +1,12 @@
+/Users/ningluo/Code/ppsat/CMakeFiles/rebuild_cache.dir
+/Users/ningluo/Code/ppsat/CMakeFiles/edit_cache.dir
+/Users/ningluo/Code/ppsat/CMakeFiles/test.dir
+/Users/ningluo/Code/ppsat/src/CMakeFiles/test.dir
+/Users/ningluo/Code/ppsat/src/CMakeFiles/unit.dir
+/Users/ningluo/Code/ppsat/src/CMakeFiles/rebuild_cache.dir
+/Users/ningluo/Code/ppsat/src/CMakeFiles/edit_cache.dir
+/Users/ningluo/Code/ppsat/src/CMakeFiles/Ppsat.dir
+/Users/ningluo/Code/ppsat/Eval/CMakeFiles/rebuild_cache.dir
+/Users/ningluo/Code/ppsat/Eval/CMakeFiles/edit_cache.dir
+/Users/ningluo/Code/ppsat/Eval/CMakeFiles/test.dir
+/Users/ningluo/Code/ppsat/Eval/CMakeFiles/microtest.dir

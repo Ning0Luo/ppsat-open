@@ -1,0 +1,21 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -G "CodeBlocks - Unix Makefiles" /Users/ningluo/Code/ppsat
+CMake Warning at Eval/CMakeLists.txt:1 (find_package):
+  By not providing "FindREQUIRED.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "REQUIRED",
+  but CMake did not find one.
+
+  Could not find a package configuration file provided by "REQUIRED" with any
+  of the following names:
+
+    REQUIREDConfig.cmake
+    required-config.cmake
+
+  Add the installation prefix of "REQUIRED" to CMAKE_PREFIX_PATH or set
+  "REQUIRED_DIR" to a directory containing one of the above files.  If
+  "REQUIRED" provides a separate development package or SDK, be sure it has
+  been installed.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/ningluo/Code/ppsat
